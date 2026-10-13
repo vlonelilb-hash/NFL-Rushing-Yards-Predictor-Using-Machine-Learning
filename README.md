@@ -1,12 +1,12 @@
 # NFL-Rushing-Yards-Predictor-Using-Machine-Learning
 A Python machine learning project that predicts NFL running backs' rushing yards before kickoff using historical performance, recent game statistics, and opponent rushing defense. Built with Scikit-learn and Linear Regression.
-Overview
+Overview:
 
 The NFL Rushing Yards Predictor is a machine learning project designed to estimate how many rushing yards an NFL running back could gain before a game begins.
 
 The model uses historical player performance, recent rushing statistics, and opponent defensive data to identify patterns and generate predictions.
 
-Goals
+Goals:
 
 Predict rushing yards before kickoff.
 
@@ -32,7 +32,7 @@ Jupyter Notebook
 
 Linear Regression
 
-Features
+Features:
 
 Uses previous game statistics as model inputs.
 
@@ -44,7 +44,7 @@ Compares predicted results with actual game outcomes.
 
 Supports future improvements using real NFL datasets.
 
-How It Works
+How It Works:
 
 Collect historical NFL rushing statistics.
 
